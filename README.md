@@ -1,6 +1,7 @@
 Hi, I’m @WaseemAlqahwaji
+- I'm Studying at Arab University for Science and Technology IT Software 
 - I'm Moblie Application Developer using Dart & Flutter
-- I’m currently learning PHP Larvel to connect my projects in Flutter with Database on a server
+- I’m currently learning PHP Larvel to connect my projects with Database on a server
 
 There is my accounts
 - FaceBook: https://www.facebook.com/waseem.alqahwaji.16
