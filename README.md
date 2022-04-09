@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaseemAlqahwaji
+Hi, I’m @WaseemAlqahwaji
 - I'm Moblie Application Developer using Dart & Flutter
 - I’m currently learning PHP Larvel to connect my projects in Flutter with Database on a server
 
